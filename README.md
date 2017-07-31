@@ -1,7 +1,7 @@
 # archie
 A lightweight, portable, and performance-driven library written in C that
-provides geometry as well as many helpful mathematical formulas that are
-accurate to several decimal places.
+provides geometry, collision detection, vector math, and many more helpful
+mathematical formulas and constructs with accuracy to several decimal places.
 
 
 Archie is to be a simple library containing some basic geometry and otherwise

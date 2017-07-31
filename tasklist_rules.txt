@@ -1,0 +1,50 @@
+This file contains the rules for the tasklist.txt file for the Archie Library.
+
+The syntax is as follows:
+Author Name:		The name of the person who suggested this task or suggestion
+Brief explanation:	Just what it says, a brief explanation. Keep it down to a
+					single line (without wrapping to a new line, like this)
+Files Concerned:	Any files where one could find the topic of the task/suggest
+Longer Explanation:	A longer explanation fully explaining what and where the
+					changes need to be made. This should add any extra information
+					that is important that has not already been explicitly stated.
+Active User:		If a user/users has/have decided to take up the task, this
+					would be where they provide their name to let others know who
+					to contact in case they should need to.
+
+A template:
+<author name>: <brief explanation>
+	<files concerned>
+	
+	<Longer explanation>
+	
+	<active user>
+
+An example:
+momotaur: Add comments
+	File 1, File 2, File 3
+	
+	There are several functions in these files that either have badly
+	worded comments, or no comments at all. Please fix.
+	
+	someguy123
+
+
+Some extra guidelines:
+
+Before posting in the tasklist, please make sure that you have introduced yourself
+to a majority of the other editors of the current library, as it would be
+inconvenient should someone want to discuss your task and not be able to reach you.
+(Sadly, there is no dedicated place to do this, so you may be out of luck when it
+comes to this file for now)
+
+In the event that one would like to comment on or otherwise discuss a posted
+task/suggestion, that should be done outside of the tasklist. The task list can
+be edited, but posting a conversation will unnecessarily clutter things up, so
+please don't do it.
+
+If someone is working on your post and you decide to edit it, please let that
+person know so they don't do unnecessary work.
+
+Please do not edit a post that is not yours unless you have already discussed it
+with the original author.

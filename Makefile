@@ -4,7 +4,6 @@ UNAME := $(shell uname)
 
 SRC_DIR := src
 INC_DIR := inc
-LIB_DIR := lib
 OBJ_DIR := obj
 
 CC := gcc

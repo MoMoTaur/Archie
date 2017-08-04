@@ -10,4 +10,4 @@ Archie's purpose is to be a solid foundation on which to build upon for
 projects that require precision and performance.
 
 With that out of the way, I hope you enjoy Archie, and I hope you find it as
-useful as I do!
+useful as I do! Enjoy!
